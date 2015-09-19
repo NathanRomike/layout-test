@@ -12,7 +12,7 @@
 
 >[Visit my page](http://nathanromike.github.io/layout-test) 
 
->Please also follow the Bootstrapped link to view my page styled with the help of Bootstrap.
+>Please also follow the Bootstrapped link below to view my page styled with the help of Bootstrap.
 
 >[Bootstrapped](http://nathanromike.github.io/bootstrapped)
 
