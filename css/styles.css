@@ -1,17 +1,35 @@
+body {
+  padding: 20px;
+}
 h1 {
-  background: grey;
+  padding: 10px;
+  background: #dddddd;
+  margin: 0px;
+}
+.optionlist {
+  padding: 10px;
+  margin: 0px;
+  background: #ce9999;
 }
 .optionlist li {
   display: inline;
   list-style-type: none;
+
 }
 .column1 {
-  width: 60%;
+  padding: 10px;
+  background-color: #97cc9e;
+  width: 450px;
   float: left;
+  margin: 0;
+
 }
 .column2 {
-  width: 40%;
-  float: right;
+  padding: 10px;
+  width: 250px;
+  float: left;
+  background-color: #999ac9;
+  margin: 0;
 }
 .link {
   padding: 10px;
