@@ -1,3 +1,10 @@
+h1 {
+  background: grey;
+}
+.optionlist li {
+  display: inline;
+  list-style-type: none;
+}
 .column1 {
   width: 60%;
   float: left;
@@ -6,7 +13,6 @@
   width: 40%;
   float: right;
 }
-.optionlist {
-  float: left;
-  width: 100px;
+.link {
+  padding: 10px;
 }
