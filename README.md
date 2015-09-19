@@ -14,7 +14,7 @@
 
 >Please also follow the Bootstrapped link below to view my page styled with the help of Bootstrap.
 
->[Bootstrapped](http://nathanromike.github.io/bootstrapped)
+>[Bootstrapped](http://nathanromike.github.io/layout-test/bootstrapped)
 
 
 ## Technologies Used
