@@ -2,6 +2,7 @@ body {
   border: 1 px solid transparent;
   padding-left: 20px;
   padding-right: 20px;
+  max-width: 740px;
 }
 h1 {
   padding: 10px;
